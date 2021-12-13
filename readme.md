@@ -3,13 +3,13 @@
 Para clonar um repositório já existente você deve usar o comando: 
 
 ```
-git clone https://github.com/anaclaudia-cb/projeto-funcionario-e-seu-investimento.git
+git clone https://github.com/anaclaudia-cb/Controle-de-Series.git
 ```
 
 depois irá para a pasta do projeto utilizando o comando:
 
 ```
-cd projeto-funcionario-e-seu-investimento
+cd controle-de-series
 ```
 
 depois instalará o composer na pasta
